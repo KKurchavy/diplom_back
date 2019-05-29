@@ -1,0 +1,7 @@
+{
+    "DB_URL": "mongodb://kost:IQ4511octa@ds247347.mlab.com:47347/lingvo",
+    "auth": {
+        "secret": "kjfjvfndOIN)(F403fji0dfvnjdf",
+        "expires": 3600
+    }
+}
